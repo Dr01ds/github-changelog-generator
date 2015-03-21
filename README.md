@@ -196,6 +196,8 @@ And it's nothing bad to combine GitHub Releases and `CHANGELOG.md` file together
 6. Create a new Pull Request
 7. Profit! :white_check_mark:
 
+@dud3
+
 ## License
 
 Github Changelog Generator is released under the [MIT License](http://www.opensource.org/licenses/MIT).
